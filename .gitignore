@@ -1,0 +1,6 @@
+/.venv/
+/build/
+/bin/
+/.vscode/
+/.gdb_history
+/.dccache/
